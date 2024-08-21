@@ -4,7 +4,7 @@
 #________________
 
 
-
+#ponemos nuestro primer comentario
 #este es el primer comentario
 #este es el segundo comentario
 
@@ -20,6 +20,8 @@ s
 
 #booleanos
 
+
+
 casa=True
 chalet=False
 
@@ -32,6 +34,7 @@ complejo=3+5j
 #texto(string)
 
 libro="en un lugar de la mancha"
+libro1='de cuyo nombre no quiero acordarme'
 
 
 #tupla() es una estructura de datos inmutable no los podemos cambiar
@@ -44,7 +47,7 @@ numeros_pares=[2,4,6,8,10]
 
 #diccionarios {} tal cual cada clave tiene un valor
 
-pobalcion_municipio={
+poblacion_municipio={
 
     2015:234,
     2016:300,
@@ -58,7 +61,7 @@ numeros_impares={1,3,5,11,7,9}
 
 #constantes
 
-VELOCIDAD_LUZ=3000000
+VELOCIDADLUZ=3000000
 
 
 
